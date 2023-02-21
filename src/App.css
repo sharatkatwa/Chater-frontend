@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Poppins&display=swap');
+body {
+  background-color: #20232b;
+  color: #c7c9d1;
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+  /* text-transform: uppercase; */
+}
